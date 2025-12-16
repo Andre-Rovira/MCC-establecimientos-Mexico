@@ -71,6 +71,7 @@ Uber eats | Delivery services | 4215
 ||
 Sanborns | Departamentales | 5311
 Suburbia | Departamentales | 5311
+Sears | Departamentales | 5311 | Compra en fisico Hermosillo Galerias
 ||
 Platzi Expert | Educación | 8299
 Udemy | Educación | 8999
