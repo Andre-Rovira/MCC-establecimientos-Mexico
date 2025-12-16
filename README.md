@@ -220,3 +220,13 @@ Supercell store | Videojuegos | ? | Didicard cashback
 ||
 JAPAC En línea | Water | 4900 | Compañía de Agua de Culiacán
 ||
+Agua de Hermosillo | Water | 4900 | Compañia operaradora Agua potable Hermosillo. Pagado desde APP "Mi Aguah"
+||
+Nikkori Andenes Hermosillo | Fast Food | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
+||
+Somos WIM | Compras en General | 5399 | Marca de telefonia digital de AT&T. Utilizan Mercadopago
+||
+Elotes Make | Fastfood | 5814 | Hermosillo Quiroga
+||
+Gua Guaus | Productos para Mascotas | 5995 | Hermosillo Pitic
+
