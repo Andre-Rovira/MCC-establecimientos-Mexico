@@ -182,6 +182,7 @@ Miniso | Supermercados | 5422
 Office Depot | Supermercados | 5411
 Oxxo | Supermercados | 5499
 Seven eleven | Supermercados | ?
+Caffenio | Supermercados | 5812 | Sucursal en Hermosillo
 Soriana  5411
 Sumesa | Supermercados | 5411
 Valenti Collezione | Supermercados | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
