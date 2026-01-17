@@ -53,6 +53,7 @@ Para añadir nuevas líneas tienes dos opciones:
 
 - [Ropa](#ropa)
 - [Servicios Financieros](#servicios-financieros)
+- [Servicios Médicos](#servicios-medicos)
 - [Souvenirs](#souvenirs)
 - [Sporting goods](#sporting-goods)
 - [Supermercados](#supermercados)
@@ -191,6 +192,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 App Store & ITunes (suscripción) | 5818
 Claude.ai | 5734
+Google Play | 5816
 NeWWW | 4814
 OpenAI | 5734
 Xbox | ? | En línea
@@ -303,10 +305,11 @@ Wingstop | 5812
 Comercio | MCC | Nota
 -------- | --- | ----
 Aldo conty | 5611
-Cuidado con el perro | ?
+Cuidado con el perro | 5949
 Dorothy Gaynor | 5661
 Dportenis | 5661
 Flexi | 5661
+Lefties | 5621
 Lentes Galileo (Ben & Frank) | 5961
 Men's Fashion | 5611
 Parisina | 5651
@@ -318,6 +321,11 @@ Shein | 5651 | Si te lo marca como "General purchases" los contactas y aplican e
 Comercio | MCC | Nota
 -------- | --- | ----
 Afore Móvil | 4814 | Compra tarjeta de regalo Amazon con Ganahorro
+
+### Servicios Médicos
+Comercio | MCC | Nota
+-------- | --- | ----
+Salud Digna | 8398 | Clínicas de salud
 
 ### Souvenirs
 Comercio | MCC | Nota
@@ -354,6 +362,7 @@ Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra e
 Comercio | MCC | Nota
 -------- | --- | ----
 Amazon Prime | 4899
+Google One | 5816
 Meli Mas | 5399
 Netflix | 4899
 Scribd | 4899
@@ -390,6 +399,7 @@ Comercio | MCC | Nota
 Conekta*Drive App | 4784
 Conekta*Parco | 4784
 Primera Plus | 4722
+Redpay*Copemsa | 7523 | Estacionamientos Copemsa móvil
 RTC Las Vegas | 4111 | Accesos de bus en su app
 Tarjeta Mi | 5966
 Vallarta plus | 4111
