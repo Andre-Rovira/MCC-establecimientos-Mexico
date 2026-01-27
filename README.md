@@ -116,6 +116,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Cinépolis | 7832
 Cinépolis Dulcería | 7832
+Cinepolis App | 7832 | Movie Theaters
 
 ### Comida rápida
 Comercio | MCC | Nota
@@ -287,7 +288,7 @@ Café Kowlaan | ?
 Casa de Toño | 5812
 Chilis | 5812
 Cotorritos | ?
-Denny's | ?
+Denny's | 5812 | Fast Food
 El portón | ?
 Hooters | 5812
 Italiannis | ?
