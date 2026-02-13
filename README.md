@@ -114,6 +114,7 @@ TotalPlay | 4814
 ### Cine
 Comercio | MCC | Nota
 -------- | --- | ----
+Cinemex | 7832
 Cinépolis | 7832
 Cinépolis Dulcería | 7832
 Cinepolis App | 7832
@@ -121,6 +122,7 @@ Cinepolis App | 7832
 ### Comida rápida
 Comercio | MCC | Nota
 -------- | --- | ----
+Boston's Pizza | 5814 | Chihuahua
 Burger king | 5814
 Cielito querido café | 5814
 Domino's Pizza | 5814
@@ -129,6 +131,7 @@ Garabatos | 5814
 IHOP | 5814
 KFC | ?
 Little caesars | 5814
+Mozao Cafe Chihuahua | 5814
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
 Pizza hut | 5814 | Web y tienda física
 Six flags | 5814 | Agua
@@ -293,6 +296,7 @@ El portón | ?
 Hooters | 5812
 Italiannis | ?
 La buena tierra | 5811
+La Sierra Pizzeria | 5812
 Las Brasas | 5812
 Pollo Feliz Apodaca | 5812
 Rancho el 17 | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
@@ -342,6 +346,7 @@ Decathlon | 5941
 Comercio | MCC | Nota
 -------- | --- | ----
 7 Eleven | 5499
+Alsuper | 5411 | Chihuahua
 Bodega aurrerá | 5411
 Caffenio | 5812 | Sucursal en Hermosillo
 CarneMart | ?
