@@ -134,6 +134,7 @@ Little caesars | 5814
 Mozao Cafe Chihuahua | 5814
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
 Pizza hut | 5814 | Web y tienda física
+Pollo Feliz | 5814 | Chihuahua
 Six flags | 5814 | Agua
 Sonora Grill | 5814
 Subway | ?
@@ -142,6 +143,8 @@ Tacos El Pata | 5814
 Taquearte | 5814
 Taquería La Palmera | 5814
 Tim Hortons | 5814
+Wendy's | 5814 |
+
 
 ### Compras en general
 Comercio | MCC | Nota
@@ -158,6 +161,7 @@ El Palacio de Hierro | 5311
 Paypal | 5399
 Riot | 5399 | LoL RP
 Somos WIM | 5399 | Marca de telefonia digital de AT&T. Utilizan Mercadopago
+Suburbia | 5311
 Suempresa.com | 4816
 Temu | 7399
 
@@ -299,7 +303,6 @@ La buena tierra | 5811
 La Sierra Pizzeria | 5812
 Las Brasas | 5812
 Pollo Feliz Apodaca | 5812
-Rancho el 17 | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
 Taquería Arandas | ?
 Twin Peaks | 5812
 Vips | 5812
@@ -359,6 +362,7 @@ Maskota G11 | 5441 | Central de abasto
 Miniso | 5422
 Office Depot | 5411
 Oxxo | 5499
+Rancho el 17 | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
 Seven eleven | ?
 Soriana | 5411
 Sumesa | 5411
