@@ -143,8 +143,7 @@ Tacos El Pata | 5814
 Taquearte | 5814
 Taquería La Palmera | 5814
 Tim Hortons | 5814
-Wendy's | 5814 |
-
+Wendy's | 5814
 
 ### Compras en general
 Comercio | MCC | Nota
