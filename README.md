@@ -22,6 +22,7 @@ Para añadir nuevas líneas tienes dos opciones:
 - [Car rental](#car-rental)
 - [Celular, TV e internet](#celular-tv-e-internet)
 - [Cine](#cine)
+- [Clubes de mayoreo](#clubes-de-mayoreo)
 - [Comida rápida](#comida-rápida)
 - [Compras en general](#compras-en-general)
 - [Delivery services](#delivery-services)
@@ -119,6 +120,11 @@ Cinépolis | 7832
 Cinépolis Dulcería | 7832
 Cinepolis App | 7832
 
+### Clubes de mayoreo
+Comercio | MCC | Nota
+-------- | --- | ----
+Sams-Club | ?
+
 ### Comida rápida
 Comercio | MCC | Nota
 -------- | --- | ----
@@ -130,6 +136,7 @@ Elotes Make | 5814 | Hermosillo Quiroga
 Garabatos | 5814
 IHOP | 5814
 KFC | ?
+La Michoacana | 5422
 Little caesars | 5814
 Mozao Cafe Chihuahua | 5814
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
@@ -209,6 +216,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Boletomovil | 5964
 Fever * Candlelight Tri | 7922
+Jump-In | 7994
 Ticketmaster | 7996
 TotalPass | ?
 Trotime | 7941 | maratones
@@ -295,6 +303,7 @@ Casa de Toño | 5812
 Chilis | 5812
 Cotorritos | ?
 Denny's | 5812
+Doña Blanca | ?
 El portón | ?
 Hooters | 5812
 Italiannis | ?
