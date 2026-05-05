@@ -123,21 +123,26 @@ Cinepolis App | 7832
 ### Clubes de mayoreo
 Comercio | MCC | Nota
 -------- | --- | ----
+Costco | 5300
 Sams-Club | ?
+
 
 ### Comida rápida
 Comercio | MCC | Nota
 -------- | --- | ----
 Boston's Pizza | 5814 | Chihuahua
 Burger king | 5814
+Caffenio | 5814 | Chihuahua
 Cielito querido café | 5814
 Domino's Pizza | 5814
 Elotes Make | 5814 | Hermosillo Quiroga
 Garabatos | 5814
+Gorditas Doña Tota | 5814 | Chihuahua
 IHOP | 5814
-KFC | ?
+KFC | 5814
 La Michoacana | 5422
 Little caesars | 5814
+McDonalds | 5814
 Mozao Cafe Chihuahua | 5814
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
 Pizza hut | 5814 | Web y tienda física
@@ -234,6 +239,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Farmacias del Ahorro | 5912
 Farmacias Regia | ?
+Farmacias Guadalajara | 5912
 Farmacias San Francisco de Asís | 5912
 Farmacias Similares | 5912 | Web y tienda
 
@@ -245,6 +251,7 @@ Multiviveros Cabrera | 5193
 ### Gas stations
 Comercio | MCC | Nota
 -------- | --- | ----
+Costco Gas | 5541
 Gas Oriente | 5541 | Gas LP
 Pemex | 5541
 
@@ -259,6 +266,7 @@ Comercio | MCC | Nota
 Comex | 5198
 Ferretería García | 5251
 Home Depot | 5311
+Ferretería Casa Myers |5251 | Chihuahua
 
 ### Jewelry
 Comercio | MCC | Nota
@@ -303,11 +311,13 @@ Casa de Toño | 5812
 Chilis | 5812
 Cotorritos | ?
 Denny's | 5812
+Domino's Pizza | 5812 | Chihuahua Mayo 2026
 Doña Blanca | ?
 El portón | ?
 Hooters | 5812
 Italiannis | ?
 La buena tierra | 5811
+La Junta Montados | 5812 | Chihuahua
 La Sierra Pizzeria | 5812
 Las Brasas | 5812
 Pollo Feliz Apodaca | 5812
@@ -342,6 +352,7 @@ Afore Móvil | 4814 | Compra tarjeta de regalo Amazon con Ganahorro
 Comercio | MCC | Nota
 -------- | --- | ----
 Salud Digna | 8398 | Clínicas de salud
+Liacsa SwissLab | 8071 | Chihuahua
 
 ### Souvenirs
 Comercio | MCC | Nota
@@ -373,6 +384,7 @@ Oxxo | 5499
 Rancho el 17 | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
 Seven eleven | ?
 Soriana | 5411
+S-Mart | 5411
 Sumesa | 5411
 Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
 
