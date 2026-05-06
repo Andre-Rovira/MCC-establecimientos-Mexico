@@ -266,7 +266,7 @@ Comercio | MCC | Nota
 Comex | 5198
 Ferretería García | 5251
 Home Depot | 5311
-Ferretería Casa Myers |5251 | Chihuahua
+Ferretería Casa Myers | 5251 | Chihuahua
 
 ### Jewelry
 Comercio | MCC | Nota
