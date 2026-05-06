@@ -368,7 +368,7 @@ Decathlon | 5941
 ### Supermercados
 Comercio | MCC | Nota
 -------- | --- | ----
-7 Eleven | 5499
+7 Eleven | 5499 | Otro reporte apareció sin MCC claro
 Alsuper | 5411 | Chihuahua
 Bodega Aurrerá | 5411
 Caffenio | 5812 | Sucursal en Hermosillo
@@ -383,7 +383,6 @@ Miniso | 5422
 Office Depot | 5411
 Oxxo | 5499
 Rancho el 17 | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
-Seven eleven | ?
 Soriana | 5411
 S-Mart | 5411
 Sumesa | 5411
