@@ -118,20 +118,20 @@ Comercio | MCC | Nota
 Cinemex | 7832
 Cinépolis | 7832
 Cinépolis Dulcería | 7832
-Cinepolis App | 7832
+Cinépolis App | 7832
 
 ### Clubes de mayoreo
 Comercio | MCC | Nota
 -------- | --- | ----
 Costco | 5300
-Sams-Club | ?
+Sam's Club | ?
 
 
 ### Comida rápida
 Comercio | MCC | Nota
 -------- | --- | ----
 Boston's Pizza | 5814 | Chihuahua
-Burger king | 5814
+Burger King | 5814
 Caffenio | 5814 | Chihuahua
 Cielito querido café | 5814
 Domino's Pizza | 5814
@@ -141,11 +141,11 @@ Gorditas Doña Tota | 5814 | Chihuahua
 IHOP | 5814
 KFC | 5814
 La Michoacana | 5422
-Little caesars | 5814
-McDonalds | 5814
+Little Caesars | 5814
+McDonald's | 5814
 Mozao Cafe Chihuahua | 5814
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
-Pizza hut | 5814 | Web y tienda física
+Pizza Hut | 5814 | Web y tienda física
 Pollo Feliz | 5814 | Chihuahua
 Six flags | 5814 | Agua
 Sonora Grill | 5814
@@ -315,7 +315,7 @@ Domino's Pizza | 5812 | Chihuahua Mayo 2026
 Doña Blanca | ?
 El portón | ?
 Hooters | 5812
-Italiannis | ?
+Italianni's | ?
 La buena tierra | 5811
 La Junta Montados | 5812 | Chihuahua
 La Sierra Pizzeria | 5812
@@ -369,7 +369,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 7 Eleven | 5499
 Alsuper | 5411 | Chihuahua
-Bodega aurrerá | 5411
+Bodega Aurrerá | 5411
 Caffenio | 5812 | Sucursal en Hermosillo
 CarneMart | ?
 Chedraui | 5411
