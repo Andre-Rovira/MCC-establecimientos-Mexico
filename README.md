@@ -210,6 +210,7 @@ Google | 7311
 Micro Center | 5732
 Nintendo (eShop) | ?
 Steam | 5816
+Supercell store | 5734 | VPN en EEUU
 WinCDKeys.com | 5734
 
 ### Electrónicos
@@ -454,7 +455,6 @@ AirBnb | 5399
 Comercio | MCC | Nota
 -------- | --- | ----
 Steam | ?
-Supercell store | ?
 
 ### Water
 Comercio | MCC | Nota
