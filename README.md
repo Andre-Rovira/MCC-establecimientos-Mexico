@@ -123,7 +123,7 @@ Cinépolis App | 7832
 Comercio | MCC | Nota
 -------- | --- | ----
 Costco | 5300
-Sam's Club | ?
+Sam's Club | 5300
 
 
 ### Comida rápida
@@ -132,11 +132,11 @@ Comercio | MCC | Nota
 Boston's Pizza | 5814 | Chihuahua
 Burger King | 5814
 Caffenio | 5814 | Chihuahua
-Checkers & Rally's | ? | LikeU restaurantes
+Checkers & Rally's | 5814
 Cielito querido café | 5814
-Culver's | ? | LikeU restaurantes
+Culver's | 5814
 Domino's Pizza | 5814
-Dunkin' Donuts | ? | LikeU restaurantes
+Dunkin' Donuts | 5814
 Elotes Make | 5814 | Hermosillo Quiroga
 Garabatos | 5814
 Gorditas Doña Tota | 5814 | Chihuahua
@@ -150,11 +150,11 @@ Mozao Cafe Chihuahua | 5814
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
 Pizza Hut | 5814 | Web y tienda física
 Pollo Feliz | 5814 | Chihuahua
-Portillo's Hot Dogs | ? | LikeU restaurantes
+Portillo's Hot Dogs | 5814
 Qué Fresas MX | ? | LikeU restaurantes
 Six flags | 5814 | Agua
 Sonora Grill | 5814
-Subway | ?
+Subway | 5814
 Sushi tako | 5814
 Tacos El Pata | 5814
 Taquearte | 5814
@@ -248,7 +248,7 @@ Farmacias Regia | ?
 Farmacias Guadalajara | 5912
 Farmacias San Francisco de Asís | 5912
 Farmacias Similares | 5912 | Web y tienda
-Walgreens | ?
+Walgreens | 5912
 
 ### Flores
 Comercio | MCC | Nota
@@ -396,7 +396,7 @@ Soriana | 5411
 S-Mart | 5411
 Sumesa | 5411
 Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
-Walmart | ?
+Walmart | 5411
 
 ### Suscripciones
 Comercio | MCC | Nota
