@@ -110,7 +110,6 @@ Movistar | 5964 | Mercado Pago
 Starlink | 5399 | Si te aparece como ‘Internet’, contacta al servicio al cliente para que te apliquen el cashback.
 Telcel | 4814
 Telmex | 4814
-TotalPlay | 4814
 
 ### Cine
 Comercio | MCC | Nota
@@ -133,8 +132,11 @@ Comercio | MCC | Nota
 Boston's Pizza | 5814 | Chihuahua
 Burger King | 5814
 Caffenio | 5814 | Chihuahua
+Checkers & Rally's | ? | LikeU restaurantes
 Cielito querido café | 5814
+Culver's | ? | LikeU restaurantes
 Domino's Pizza | 5814
+Dunkin' Donuts | ? | LikeU restaurantes
 Elotes Make | 5814 | Hermosillo Quiroga
 Garabatos | 5814
 Gorditas Doña Tota | 5814 | Chihuahua
@@ -143,10 +145,13 @@ KFC | 5814
 La Michoacana | 5422
 Little Caesars | 5814
 McDonald's | 5814
+Milwaukee Brewers Stadium Puestos | ? | LikeU restaurantes
 Mozao Cafe Chihuahua | 5814
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
 Pizza Hut | 5814 | Web y tienda física
 Pollo Feliz | 5814 | Chihuahua
+Portillo's Hot Dogs | ? | LikeU restaurantes
+Qué Fresas MX | ? | LikeU restaurantes
 Six flags | 5814 | Agua
 Sonora Grill | 5814
 Subway | ?
@@ -243,6 +248,7 @@ Farmacias Regia | ?
 Farmacias Guadalajara | 5912
 Farmacias San Francisco de Asís | 5912
 Farmacias Similares | 5912 | Web y tienda
+Walgreens | ?
 
 ### Flores
 Comercio | MCC | Nota
@@ -308,6 +314,7 @@ Comercio | MCC | Nota
 Barril 23 | ?
 Bisquets Obregón | 5812
 Café Kowlaan | ?
+Casey Coffee Company | ?
 Casa de Toño | 5812
 Chilis | 5812
 Cotorritos | ?
@@ -322,6 +329,8 @@ La Junta Montados | 5812 | Chihuahua
 La Sierra Pizzeria | 5812
 Las Brasas | 5812
 Pollo Feliz Apodaca | 5812
+REST XCAANDA | ? | Puerto Escondido
+Sushi Roll | ?
 Taquería Arandas | ?
 Twin Peaks | 5812
 Vips | 5812
@@ -387,6 +396,7 @@ Soriana | 5411
 S-Mart | 5411
 Sumesa | 5411
 Valenti Collezione | 5422 | Cobro entra como "BP*Miscelanea Jarvis" y no entra en ropa a pesar de ser tienda de trajes
+Walmart | ?
 
 ### Suscripciones
 Comercio | MCC | Nota
@@ -411,7 +421,7 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Movistar (app) | 4814
 Telmex (app) | 4814
-TotalPlay | ? | LikeU dió el 4%
+TotalPlay | 4814
 
 ### Tiendas para niños
 Comercio | MCC | Nota
