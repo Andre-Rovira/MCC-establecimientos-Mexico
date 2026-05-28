@@ -191,6 +191,7 @@ Uber eats | 4215
 ### Departamentales
 Comercio | MCC | Nota
 -------- | --- | ----
+Liverpool | 5311 | Compra física
 Sanborns | 5311
 Sears | 5311 | Compra en fisico Hermosillo Galerias
 Suburbia | 5311
@@ -403,7 +404,6 @@ Comercio | MCC | Nota
 -------- | --- | ----
 Amazon Prime | 4899
 Google One | 5816
-Meli Mas | 5399
 Netflix | 4899
 Scribd | 4899
 Spotify | 4816
@@ -431,6 +431,7 @@ Reino de Magos | 5945 | Juegos de mesa y alimentos
 ### Transferencias
 Comercio | MCC | Nota
 -------- | --- | ----
+Meli+ (Mercado Pago) | 5964 | Vincular tarjeta para pago de Meli+
 PaySend | 4829
 
 ### Transporte
